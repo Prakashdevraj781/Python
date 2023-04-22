@@ -1,0 +1,4 @@
+Designed and maintained complex data pipelines using tools such as Apache Spark, Airflow, and AWS Glue.
+Collaborated with cross-functional teams to build scalable and efficient data solutions.
+Developed custom ETL processes to extract, transform, and load data from various sources into centralized data warehouses.
+Conducted data analysis to identify trends and patterns, and created dashboards to visualize insights for business stakeholders.
